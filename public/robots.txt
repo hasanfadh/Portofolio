@@ -1,0 +1,6 @@
+# Allow all search engines to index the site
+User-agent: *
+Allow: /
+
+# Sitemap (optional, bisa kamu tambahkan nanti)
+# Sitemap: https://hasanfadhlurrahman.com/sitemap.xml
