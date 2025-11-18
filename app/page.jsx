@@ -154,19 +154,45 @@ function App() {
           
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '20px' }}>
             <div style={{ backgroundColor: '#1a1a1a', padding: '30px', borderRadius: '12px', border: '1px solid #333333' }}>
-              <h3 style={{ fontSize: '1.4rem', color: '#ffffff', marginBottom: '10px' }}>EmoSense — Emotion Detector</h3>
-              <p style={{ color: '#aaaaaa', marginBottom: '10px', fontSize: '0.9rem' }}>Python, Django, IndoBERT | 2025</p>
-              <p style={{ color: '#d1d1d1', lineHeight: '1.6' }}>
-                Built an emotion analysis web app that detects emotional tone from YouTube comments using a fine-tuned IndoBERT model. Integrated model deployment into Django web framework.
+              <img 
+                src="/images/bayangkara.png"
+                alt="Rumah Al-Qur'an Ikhlas Bayangkara" 
+                style={{ width: '100%', height: '200px', objectFit: 'cover', borderRadius: '8px', marginBottom: '20px' }}
+              />
+              <h3 style={{ fontSize: '1.4rem', color: '#ffffff', marginBottom: '10px' }}>Rumah Al-Qur'an Ikhlas Bayangkara</h3>
+              <p style={{ color: '#aaaaaa', marginBottom: '10px', fontSize: '0.9rem' }}>Laravel, Blade, PHP, HTML | 2025</p>
+              <p style={{ color: '#d1d1d1', lineHeight: '1.6', marginBottom: '15px' }}>
+                Developed a Laravel-based website for Rumah Al-Qur'an Ikhlas Bayangkara to showcase institutional information, educational programs, and services offered to the community.
               </p>
+              <a href="https://rumah-al-qur-an-ikhlas-bayangkara.vercel.app/" target="_blank" rel="noopener noreferrer" style={{ padding: '8px 16px', backgroundColor: '#ffffff', color: '#000000', textDecoration: 'none', borderRadius: '6px', fontWeight: 'bold', display: 'inline-block' }}>View Project →</a>
             </div>
 
             <div style={{ backgroundColor: '#1a1a1a', padding: '30px', borderRadius: '12px', border: '1px solid #333333' }}>
+              <img 
+                src="/images/emosense.png" 
+                alt="EmoSense Emotion Detector" 
+                style={{ width: '100%', height: '200px', objectFit: 'cover', borderRadius: '8px', marginBottom: '20px' }}
+              />
+              <h3 style={{ fontSize: '1.4rem', color: '#ffffff', marginBottom: '10px' }}>EmoSense — Emotion Detector</h3>
+              <p style={{ color: '#aaaaaa', marginBottom: '10px', fontSize: '0.9rem' }}>Python, Django, IndoBERT | 2025</p>
+              <p style={{ color: '#d1d1d1', lineHeight: '1.6', marginBottom: '15px' }}>
+                Built an emotion analysis web app that detects emotional tone from YouTube comments using a fine-tuned IndoBERT model. Integrated model deployment into Django web framework.
+              </p>
+              <a href="https://github.com/hasanfadh/EmoSense" target="_blank" rel="noopener noreferrer" style={{ padding: '8px 16px', backgroundColor: '#ffffff', color: '#000000', textDecoration: 'none', borderRadius: '6px', fontWeight: 'bold', display: 'inline-block' }}>View Project →</a>
+            </div>
+
+            <div style={{ backgroundColor: '#1a1a1a', padding: '30px', borderRadius: '12px', border: '1px solid #333333' }}>
+              <img 
+                src="/images/bodyTrackr.png" 
+                alt="BodyTrackr Fitness Tracking App" 
+                style={{ width: '100%', height: '200px', objectFit: 'cover', borderRadius: '8px', marginBottom: '20px' }}
+              />
               <h3 style={{ fontSize: '1.4rem', color: '#ffffff', marginBottom: '10px' }}>BodyTrackr — Fitness Tracking App</h3>
               <p style={{ color: '#aaaaaa', marginBottom: '10px', fontSize: '0.9rem' }}>Flutter/Dart | 2025</p>
-              <p style={{ color: '#d1d1d1', lineHeight: '1.6' }}>
+              <p style={{ color: '#d1d1d1', lineHeight: '1.6', marginBottom: '15px' }}>
                 Developed a Flutter-based health tracking app with food, exercise, and daily monitoring features. All functions passed testing with no major bugs, achieving an average user satisfaction score above 4/5.
               </p>
+              <a href="https://github.com/hasanfadh/BodyTrackr" target="_blank" rel="noopener noreferrer" style={{ padding: '8px 16px', backgroundColor: '#ffffff', color: '#000000', textDecoration: 'none', borderRadius: '6px', fontWeight: 'bold', display: 'inline-block' }}>View Project →</a>
             </div>
           </div>
         </section>
@@ -202,15 +228,18 @@ function App() {
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '15px' }}>
             <div style={{ backgroundColor: '#1a1a1a', padding: '20px', borderRadius: '8px', border: '1px solid #333333' }}>
               <h4 style={{ color: '#ffffff', marginBottom: '5px' }}>Memulai Pemrograman dengan Python</h4>
-              <p style={{ color: '#aaaaaa', fontSize: '0.9rem' }}>2025</p>
+              <p style={{ color: '#aaaaaa', marginBottom: '10px', fontSize: '0.9rem' }}>2025</p>
+              <a href="https://www.dicoding.com/certificates/98XWL07EWZM3" target="_blank" rel="noopener noreferrer" style={{ padding: '8px 16px', backgroundColor: '#ffffff', color: '#000000', textDecoration: 'none', borderRadius: '6px', fontWeight: 'bold', display: 'inline-block' }}>View Certificate →</a>
             </div>
             <div style={{ backgroundColor: '#1a1a1a', padding: '20px', borderRadius: '8px', border: '1px solid #333333' }}>
               <h4 style={{ color: '#ffffff', marginBottom: '5px' }}>Prompt Engineering for Software Developers</h4>
-              <p style={{ color: '#aaaaaa', fontSize: '0.9rem' }}>2025</p>
+              <p style={{ color: '#aaaaaa', marginBottom: '10px', fontSize: '0.9rem' }}>2025</p>
+              <a href="https://www.dicoding.com/certificates/JMZVVERJRZN9" target="_blank" rel="noopener noreferrer" style={{ padding: '8px 16px', backgroundColor: '#ffffff', color: '#000000', textDecoration: 'none', borderRadius: '6px', fontWeight: 'bold', display: 'inline-block' }}>View Certificate →</a>
             </div>
             <div style={{ backgroundColor: '#1a1a1a', padding: '20px', borderRadius: '8px', border: '1px solid #333333' }}>
               <h4 style={{ color: '#ffffff', marginBottom: '5px' }}>Belajar Dasar Visualisasi Data</h4>
-              <p style={{ color: '#aaaaaa', fontSize: '0.9rem' }}>2024</p>
+              <p style={{ color: '#aaaaaa', marginBottom: '10px', fontSize: '0.9rem' }}>2024</p>
+              <a href="https://www.dicoding.com/certificates/MEPJNR6WQX3V" target="_blank" rel="noopener noreferrer" style={{ padding: '8px 16px', backgroundColor: '#ffffff', color: '#000000', textDecoration: 'none', borderRadius: '6px', fontWeight: 'bold', display: 'inline-block' }}>View Certificate →</a>
             </div>
           </div>
         </section>
