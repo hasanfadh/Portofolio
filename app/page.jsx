@@ -12,12 +12,12 @@ import "./globals.css";
 const projects = [
   {
     id: 1,
-    image: '/images/bayangkara.png',
-    title: 'Rumah Al-Quran Ikhlas Bayangkara',
+    image: '/images/bhayangkara.png',
+    title: 'Rumah Al-Quran Ikhlas Bhayangkara',
     tech: 'Laravel, Blade, PHP, HTML',
     year: '2025',
-    description: 'Developed a Laravel-based website for Rumah Al-Quran Ikhlas Bayangkara to showcase institutional information, educational programs, and services offered to the community.',
-    link: 'https://rumah-al-qur-an-ikhlas-bayangkara.vercel.app/',
+    description: 'Developed a Laravel-based website for Rumah Al-Quran Ikhlas Bhayangkara to showcase institutional information, educational programs, and services offered to the community.',
+    link: 'https://rumah-al-qur-an-ikhlas-bhayangkara.vercel.app/',
     gradient: 'from-amber-500/30 to-orange-600/30',
     accentColor: 'amber'
   },
