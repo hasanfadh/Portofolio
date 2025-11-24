@@ -16,7 +16,7 @@ const projects = [
     title: 'Rumah Al-Quran Ikhlas Bhayangkara',
     tech: 'Laravel, Blade, PHP, HTML',
     year: '2025',
-    description: 'Built a static landing page website using HTML5, Tailwind CSS (CDN), and vanilla JavaScript. Integrated responsive navigation system, implemented Intersection Observer for scroll-triggered animations, and optimized mobile user experience with touch-friendly interfaces and adaptive layouts.',
+    description: 'Built a static landing page using HTML5, Tailwind CSS, and vanilla JavaScript. Implemented responsive navigation, scroll-triggered animations with Intersection Observer, and mobile-optimized interface.',
     link: 'https://rumah-al-qur-an-ikhlas-bhayangkara.vercel.app/',
     gradient: 'from-amber-500/30 to-orange-600/30',
     accentColor: 'amber'
