@@ -14,7 +14,7 @@ const projects = [
     id: 1,
     image: '/images/bhayangkara.png',
     title: 'Rumah Al-Quran Ikhlas Bhayangkara',
-    tech: 'Laravel, Blade, PHP, HTML',
+    tech: 'HTML, Tailwind CSS, JavaScript',
     year: '2025',
     description: 'Built a static landing page using HTML5, Tailwind CSS, and vanilla JavaScript. Implemented responsive navigation, scroll-triggered animations with Intersection Observer, and mobile-optimized interface.',
     link: 'https://rumah-al-qur-an-ikhlas-bhayangkara.vercel.app/',
