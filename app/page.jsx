@@ -126,7 +126,7 @@ function App() {
             </p>
             <RotatingText
               texts={['Mobile App', 'Website', 'Mobile App', "Website"]}
-              className="text-sm sm:text-base md:text-lg lg:text-xl font-bold bg-white text-[#020410] px-3 py-1 rounded-md"
+              className="text-base sm:text-base md:text-lg lg:text-xl font-bold bg-white text-[#020410] px-3 py-1 rounded-md"
             />
           </div>
         </header>
@@ -146,16 +146,16 @@ function App() {
           <section className="mb-16 sm:mb-24 md:mb-32">
             <div className="mb-10 sm:mb-16">
               <div className="flex items-center gap-4 mb-3">
-                <div className="h-px flex-1 bg-gradient-to-r from-transparent via-amber-500/50 to-transparent"></div>              
+                <div className="h-px flex-1 bg-linear-to-r from-transparent via-amber-500/50 to-transparent"></div>              
               </div>
               <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black tracking-tight text-center">
-                <span className="bg-gradient-to-r from-amber-400 via-amber-200 to-amber-500 bg-clip-text text-transparent">
+                <span className="bg-linear-to-r from-amber-400 via-amber-200 to-amber-500 bg-clip-text text-transparent">
                   Featured
                 </span>
                 <span className="text-white ml-2 sm:ml-3">Projects</span>
               </h2>
               <div className="flex items-center gap-4 mt-3">
-                <div className="h-px flex-1 bg-gradient-to-r from-transparent via-amber-500/50 to-transparent"></div>
+                <div className="h-px flex-1 bg-linear-to-r from-transparent via-amber-500/50 to-transparent"></div>
               </div>
               <p className="text-slate-400 text-sm sm:text-base md:text-lg lg:text-xl text-center font-light tracking-wide mt-3 px-4">
                 Crafting digital experiences with precision and passion
