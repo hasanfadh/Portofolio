@@ -427,7 +427,7 @@ function App() {
                         <p className="text-slate-500 text-xs sm:text-sm font-semibold uppercase tracking-wider">{cert.year}</p>
                       </div>
                     </div>
-                    
+                     
                     <a 
                       href={cert.link}
                       target="_blank"
