@@ -77,7 +77,7 @@ const projects = [
   },
 ];
 
-const hardSkills = ['Flutter & Dart', 'Machine Learning', 'Python', 'Data Visualization', 'Tableau', 'Django', 'NLP', 'Laravel', 'Next.JS', 'Tailwind'];
+const hardSkills = ['Flutter & Dart', 'Machine Learning', 'Python', 'Data Visualization', 'Tableau', 'Django', 'NLP', 'Laravel', 'Next.JS', 'Tailwind', 'Figma', 'Canva'];
 const softSkills = ['Leadership', 'Team Coordination', 'Collaboration', 'Strategic Planning', 'Communication', 'Attention to Detail', 'Problem Solving'];
 
 const certifications = [
